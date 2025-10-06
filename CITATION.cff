@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Universal Adaptation Law: Logistic Dynamics in Microbial Evolution and Machine Learning"
+authors:
+  - family-names: Cyr
+    given-names: Jeffrey
+    affiliation: Independent Researcher
+    orcid: "0000-0000-0000-0000"  # Replace with your ORCID if you have one
+date-released: 2025-10-06
+version: 1.0.0
+repository-code: https://github.com/jeffreycyr/universal_adaptation_arxiv
+license: MIT
+keywords:
+  - adaptation
+  - machine learning
+  - microbial evolution
+  - logistic growth
+  - universal law
